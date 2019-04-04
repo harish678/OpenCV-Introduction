@@ -13,18 +13,16 @@ Along with the OpenCV we will be using Matplotlib and Numpy libraries in the Tut
 #### Windows Users:
 [python-OpenCV](https://www.lfd.uci.edu/~gohlke/pythonlibs/) - There are alternative methods, but this is the easiest. Download the appropriate wheel (.whl) file, and install using pip.
 
-pip install numpy
+* pip install numpy
 
-pip install matplotlib
-
-Not familiar with using pip? See the Pip installation tutorial for help.
+* pip install matplotlib
 
 #### Linux / Mac Users:
-pip3 install numpy or apt-get install python3-numpy. You may need to apt-get install python3-pip.
+* pip3 install numpy or apt-get install python3-numpy. You may need to apt-get install python3-pip.
 
-pip3 install matplotlib or apt-get install python3-matplotlib.
+* pip3 install matplotlib or apt-get install python3-matplotlib.
 
-apt-get install python3-OpenCV
+* apt-get install python3-OpenCV
 
 
 ### Resources
